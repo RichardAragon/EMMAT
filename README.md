@@ -19,9 +19,7 @@ EMMAT is a powerful and efficient framework for training large-scale language mo
 
 To get started with EMMAT, follow these steps:
 
-1. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
+1. Install the required dependencies.
    ```
 
 2. Prepare your multi-modal dataset:
